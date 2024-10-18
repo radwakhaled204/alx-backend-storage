@@ -1,0 +1,2 @@
+About
+Redis is an open-source, in-memory No-SQL database used mostly as a cache, or message broker. It is often referred to as a "data structure server" because it allows you to store and manipulate various data structures, such as strings, hashes, lists, sets, and more. Redis is known for its high performance, scalability, and versatility. It provides a rich set of features and is widely used in many applications for caching, real-time analytics, messaging systems, and more. In this project we will look into the basics of redis and how to use it in python for caching
